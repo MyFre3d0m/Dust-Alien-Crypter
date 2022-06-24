@@ -1,5 +1,3 @@
-# Alien-Crypter
-
 <h1 align="center">Alien Crypter</h1>
 <p align="center">
 
